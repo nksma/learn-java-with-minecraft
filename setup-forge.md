@@ -67,3 +67,5 @@ Intellij画面下部にあるRun(実行)ウィンドウに実行ログが表示�
 ```
 
 これはForgeに同梱されている恐ろしく単純なサンプルModによって書き出されています。
+
+[戻る](https://nksma.github.io/learn-java-with-minecraft/)
