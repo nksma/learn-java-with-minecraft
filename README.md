@@ -8,4 +8,4 @@
 
 Forgeを使ってゲームに手を加えていくことを通して、プログラミングの楽しさを実感していただければ幸いです。
 
-1. [Forgeをセットアップする](setup-forge.html)
+1. [Forgeをセットアップする](https://nksma.github.io/learn-java-with-minecraft/setup-forge.html)
