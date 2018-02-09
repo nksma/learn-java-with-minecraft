@@ -1,4 +1,4 @@
-## Welcome to Learn Java with Minecraft!
+## Welcome to Learning Java with Minecraft!
 
 マインクラフトは自由度の高いゲームですが、MODをロードすることでゲームの内容を変えることができます。
 
