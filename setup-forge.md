@@ -24,7 +24,7 @@ $ pwd
 
 Gradleスクリプトでワークスペースをセットアップします。
 READMEによると下記のコマンドを実行するよう書いてあります。
-> Windows: "gradlew setupDecompWorkspace"\
+> Windows: "gradlew setupDecompWorkspace"<br/>
 > Linux/Mac OS: "./gradlew setupDecompWorkspace"
 
 私の環境はMac OSなので、下記の通りにコマンドを打つと、gradleスクリプトが実行されて必要なファイルがダウンロードされたりパッチ（MCPへのパッチ）が当てられたりします。
